@@ -1,5 +1,5 @@
 //
-//  PageViewControl ler.swift
+//  PageViewController.swift
 //  MalauzaiAssessment
 //
 //  Copyright © 2019 Oj Shrivastava. All rights reserved.
