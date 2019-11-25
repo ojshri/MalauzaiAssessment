@@ -5,6 +5,6 @@
 2. Please check the Swift version in your mac using the following command - 
    swift -version
 
-3. Please update your mac to macOS Catalina to install XCode 11.1.
+3. Please update your mac to macOS Catalina to use XCode 11.1
 
-4. Please let the recruiter know if still facing issue, I will create a demo video including compilation, run, autolayout, rotation and passing unit test cases.
+**The attached demo video, MalauzaiWithTest.mp4, included compilation, run, autolayout, rotation and passing unit test cases.
