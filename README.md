@@ -7,4 +7,4 @@
 
 3. Please update your mac to macOS Catalina to use XCode 11.1
 
-**The attached demo video, MalauzaiWithTest.mp4, included compilation, run, autolayout, rotation and passing unit test cases.
+**The attached demo video, MalauzaiWithTest.mp4, included compilation, run, autolayout, rotation and passing unit test cases.**
